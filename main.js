@@ -1,3 +1,9 @@
+/*
+INTEGRANTES:
+Natally De Lima Kazeker 
+Ronald Francisco Domingos De Sousa 
+TURMA: 3ª Série L
+*/
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 8;
 numeroSenha.textContent = tamanhoSenha;
